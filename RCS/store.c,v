@@ -1,0 +1,38 @@
+head	1.1;
+access;
+symbols;
+locks;
+comment	@ * @;
+
+
+1.1
+date	2014.04.15.23.58.59;	author -;	state -;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@-
+@
+text
+@/* By Patrick Russell
+ *
+ * NAME: store.c
+ *
+ * Purpose: store and recount customer info
+ *
+ * USAGE: input filename that contains the correct data into
+ *        the standard input
+ *
+ */
+
+int main(int argc, char argv){
+
+}
+
+@
